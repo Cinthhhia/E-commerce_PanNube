@@ -1,0 +1,114 @@
+﻿body {
+    background-image: url('../Imagenes/fondPanNube.jpg');
+}
+
+.tabla {
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 50%;
+    margin: 0 auto;
+    color: #17202A;
+}
+
+.titulo-resgitrarse {
+    font-family: 'Cursive', sans-serif;
+    font-size: 2.5em;
+    color: #17202A;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 50%;
+    width: 32.5%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.txtBox {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: #E8E8E8;
+}
+
+.boton {
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn {
+    padding: 5px 10px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    border: 1px solid black;
+}
+
+.confirmar {
+    background-color: #A5B58C;
+}
+
+.ingresar {
+    background-color: #5D9AD1;
+}
+
+.cancelar {
+    background-color: #D94A38;
+}
+
+.buscar {
+    background-color: #F1DECF;
+}
+
+.neutro {
+    background-color: #E8E8E8;
+}
+
+.seleccion {
+    background-color: #F1DECF;
+}
+
+.titulo-login {
+    font-family: 'Cursive', sans-serif;
+    font-size: 80px;
+    color: #17202A;
+    animation: scale-up-vertical-center 1.2s;
+    text-align: center;
+    text-shadow: 1px 1px 2px white, 0 0 2em orange, 0 0 0.1em black;
+}
+
+.validacion {
+    color: red;
+    background-color: #FCE1B0;
+}
+
+.pagina-principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.centrado {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+@keyframes scale-up-vertical-center {
+    0% {
+        transform: scaleY(.2);
+    }
+
+    100% {
+        transform: scaleY(1);
+    }
+}

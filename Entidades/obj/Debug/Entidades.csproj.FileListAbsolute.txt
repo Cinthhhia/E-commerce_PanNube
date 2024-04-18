@@ -1,0 +1,30 @@
+C:\Users\matia\Downloads\TIF\Entidades\bin\Debug\Entidades.dll
+C:\Users\matia\Downloads\TIF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matia\Downloads\TIF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\TIF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\TIF\Entidades\obj\Debug\Entidades.dll
+C:\Users\matia\Downloads\TIF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\cinthia\Desktop\TIF\Entidades\bin\Debug\Entidades.dll
+C:\Users\cinthia\Desktop\TIF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cinthia\Desktop\TIF\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\TIF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\TIF\Entidades\obj\Debug\Entidades.dll
+C:\Users\cinthia\Desktop\TIF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matia\Downloads\PanNube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\PanNube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\PanNube\Entidades\obj\Debug\Entidades.dll
+C:\Users\matia\Downloads\PanNube\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matia\Downloads\PanNube\Entidades\bin\Debug\Entidades.dll
+C:\Users\matia\Downloads\PanNube\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cinthia\Desktop\PanNube\Entidades\bin\Debug\Entidades.dll
+C:\Users\cinthia\Desktop\PanNube\Entidades\bin\Debug\Entidades.pdb
+C:\Users\cinthia\Desktop\PanNube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\PanNube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\PanNube\Entidades\obj\Debug\Entidades.dll
+C:\Users\cinthia\Desktop\PanNube\Entidades\obj\Debug\Entidades.pdb
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Entidades\bin\Debug\Entidades.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Entidades\bin\Debug\Entidades.pdb
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Entidades\obj\Debug\Entidades.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Entidades\obj\Debug\Entidades.pdb

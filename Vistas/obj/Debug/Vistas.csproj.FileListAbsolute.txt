@@ -1,0 +1,833 @@
+C:\Users\matia\source\repos\TIF\Vistas\bin\Vistas.dll.config
+C:\Users\matia\source\repos\TIF\Vistas\bin\Vistas.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\Vistas.pdb
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\csc.exe
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\csi.exe
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\matia\source\repos\TIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matia\source\repos\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matia\source\repos\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matia\source\repos\TIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\TIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\TIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\matia\source\repos\TIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\matia\source\repos\TIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\Vistas.dll.config
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\Vistas.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\Vistas.pdb
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\csc.exe
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\csi.exe
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\matia\OneDrive\Escritorio\Programacion 3\TP Final\TIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Vistas.dll.config
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Vistas.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Vistas.pdb
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\csc.exe
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\csi.exe
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cinthia\Desktop\TIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\TIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\TIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\cinthia\Desktop\TIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\matia\Downloads\TIF\Vistas\bin\Vistas.dll.config
+C:\Users\matia\Downloads\TIF\Vistas\bin\Vistas.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\Vistas.pdb
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\csc.exe
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\csi.exe
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\matia\Downloads\TIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matia\Downloads\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matia\Downloads\TIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\TIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\TIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\matia\Downloads\TIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\matia\Downloads\TIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\matia\Downloads\TIF\Vistas\bin\Entidades.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\Negocio.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\Datos.dll
+C:\Users\matia\Downloads\TIF\Vistas\bin\Entidades.pdb
+C:\Users\matia\Downloads\TIF\Vistas\bin\Negocio.pdb
+C:\Users\matia\Downloads\TIF\Vistas\bin\Datos.pdb
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Entidades.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Negocio.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Datos.dll
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Entidades.pdb
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Negocio.pdb
+C:\Users\cinthia\Desktop\TIF\Vistas\bin\Datos.pdb
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Vistas.dll.config
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Vistas.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Vistas.pdb
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\csc.exe
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\csc.exe.config
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\csc.rsp
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\csi.exe
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\csi.exe.config
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\csi.rsp
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Console.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\vbc.exe
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\vbc.rsp
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Entidades.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Negocio.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Datos.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Entidades.pdb
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Negocio.pdb
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\bin\Datos.pdb
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\obj\Debug\Vistas.dll
+C:\Users\cinthia\Desktop\cvcv\TIF\Vistas\obj\Debug\Vistas.pdb
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Vistas.dll.config
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Vistas.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Vistas.pdb
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\csc.exe
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\csc.exe.config
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\csc.rsp
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\csi.exe
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\csi.exe.config
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\csi.rsp
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Console.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\vbc.exe
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\vbc.rsp
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\matia\Downloads\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Entidades.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Negocio.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Datos.dll
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Entidades.pdb
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Negocio.pdb
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matia\Downloads\PanNube\Vistas\bin\Datos.pdb
+C:\Users\matia\Downloads\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\matia\Downloads\PanNube\Vistas\obj\Debug\Vistas.dll
+C:\Users\matia\Downloads\PanNube\Vistas\obj\Debug\Vistas.pdb
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Vistas.dll.config
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Vistas.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Vistas.pdb
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\csc.exe
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\csc.exe.config
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\csc.rsp
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\csi.exe
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\csi.exe.config
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\csi.rsp
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Console.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\vbc.exe
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\vbc.rsp
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Entidades.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Negocio.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Datos.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Entidades.pdb
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Negocio.pdb
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cinthia\Desktop\PanNube\Vistas\bin\Datos.pdb
+C:\Users\cinthia\Desktop\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\cinthia\Desktop\PanNube\Vistas\obj\Debug\Vistas.dll
+C:\Users\cinthia\Desktop\PanNube\Vistas\obj\Debug\Vistas.pdb
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Vistas.dll.config
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Vistas.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Vistas.pdb
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csc.exe
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csc.exe.config
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csc.rsp
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csi.exe
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csi.exe.config
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csi.rsp
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Console.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\vbc.exe
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\vbc.rsp
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Entidades.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Negocio.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Datos.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Entidades.pdb
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Negocio.pdb
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\bin\Datos.pdb
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.dll
+C:\Users\matia\Downloads\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.pdb
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Vistas.dll.config
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Vistas.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Vistas.pdb
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csc.exe
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csc.exe.config
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csc.rsp
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csi.exe
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csi.exe.config
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\csi.rsp
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Console.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\vbc.exe
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\vbc.rsp
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Entidades.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Negocio.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Datos.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Entidades.pdb
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Negocio.pdb
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\bin\Datos.pdb
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.dll
+C:\Users\cinthia\Desktop\TP_Integrador_Grupo5\PanNube\Vistas\obj\Debug\Vistas.pdb
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Vistas.dll.config
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Vistas.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Vistas.pdb
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\csc.exe
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\csc.exe.config
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\csc.rsp
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\csi.exe
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\csi.exe.config
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\csi.rsp
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Console.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\vbc.exe
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\vbc.rsp
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Entidades.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Negocio.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Datos.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Entidades.pdb
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Negocio.pdb
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\bin\Datos.pdb
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\obj\Debug\Vistas.dll
+C:\Users\matia\OneDrive\Escritorio\PanNube\Vistas\obj\Debug\Vistas.pdb
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Vistas.dll.config
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Vistas.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Vistas.pdb
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\csc.exe
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\csc.exe.config
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\csc.rsp
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\csi.exe
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\csi.exe.config
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\csi.rsp
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Console.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\vbc.exe
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\vbc.rsp
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Entidades.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Negocio.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Datos.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Entidades.pdb
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Negocio.pdb
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\bin\Datos.pdb
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\obj\Debug\Vistas.dll
+C:\Users\cinthia\Desktop\X\PanNube\Vistas\obj\Debug\Vistas.pdb
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Vistas.dll.config
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Vistas.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Vistas.pdb
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\csc.exe
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\csc.exe.config
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\csc.rsp
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\csi.exe
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\csi.exe.config
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\csi.rsp
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Console.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\vbc.exe
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\vbc.rsp
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Entidades.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Negocio.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Datos.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Entidades.pdb
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Negocio.pdb
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\bin\Datos.pdb
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\obj\Debug\Vistas.dll
+C:\Users\cinthia\Desktop\ACA\PanNube\Vistas\obj\Debug\Vistas.pdb
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Vistas.dll.config
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Vistas.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Vistas.pdb
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\csc.exe
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\csc.exe.config
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\csc.rsp
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\csi.exe
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\csi.exe.config
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\csi.rsp
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.AppContext.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Collections.Immutable.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Console.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.IO.Compression.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Net.Http.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Net.Sockets.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.ValueTuple.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Xml.XPath.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\vbc.exe
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\vbc.exe.config
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\vbc.rsp
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\roslyn\VBCSCompiler.exe.config
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Entidades.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Negocio.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Datos.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Entidades.pdb
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Negocio.pdb
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\bin\Datos.pdb
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\obj\Debug\Vistas.dll
+D:\UTN\PROG III\TP FINAL\tp final entrega\PanNube\Vistas\obj\Debug\Vistas.pdb
